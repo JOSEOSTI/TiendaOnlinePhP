@@ -1,2 +1,2 @@
 # TiendaOnlinePhP
-Tienda online en base articulos, prentes etc creado en php fronend y backend y con coneccion a Mysql 
+Tienda online  de articulos para vestir  creado en php fronend y backend  con coneccion a Mysql utilizando metodos de pago en paypal 
